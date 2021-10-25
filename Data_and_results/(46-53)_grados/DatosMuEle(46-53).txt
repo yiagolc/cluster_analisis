@@ -1,0 +1,4 @@
+## Parametros Funciones de respuesta (0- Muones, 1-Electrones), ajuste gauss·recta (y=ax). Incidencia de 46 a 53 grados
+#  Part     FRMax  	E_FRMax	     FWHM	Int   Gauss_Sigma  Gauss_E 	  a 	   Inc_G_S      Inc_G_E	   Inc_a   DAT_In
+    0       10.246     1.646      0.965      2.208      0.440       1.000    	10.413     0.131      0.138      2.903      1
+    1        0.836     1.633      0.976      0.183      0.447       0.980    	 0.875     0.126      0.132      0.232      1
